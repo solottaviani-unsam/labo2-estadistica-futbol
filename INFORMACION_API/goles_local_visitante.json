@@ -1,0 +1,182 @@
+{
+  "Independiente": {
+    "goles_local": 8,
+    "goles_visitante": 3,
+    "recibidos_local": 6,
+    "recibidos_visitante": 5
+  },
+  "Atletico Tucuman": {
+    "goles_local": 11,
+    "goles_visitante": 3,
+    "recibidos_local": 4,
+    "recibidos_visitante": 14
+  },
+  "Velez Sarsfield": {
+    "goles_local": 9,
+    "goles_visitante": 8,
+    "recibidos_local": 5,
+    "recibidos_visitante": 4
+  },
+  "Talleres": {
+    "goles_local": 2,
+    "goles_visitante": 6,
+    "recibidos_local": 5,
+    "recibidos_visitante": 7
+  },
+  "Barracas Central": {
+    "goles_local": 8,
+    "goles_visitante": 10,
+    "recibidos_local": 10,
+    "recibidos_visitante": 6
+  },
+  "Argentinos Juniors": {
+    "goles_local": 11,
+    "goles_visitante": 4,
+    "recibidos_local": 2,
+    "recibidos_visitante": 9
+  },
+  "Aldosivi": {
+    "goles_local": 5,
+    "goles_visitante": 3,
+    "recibidos_local": 5,
+    "recibidos_visitante": 11
+  },
+  "Independiente Rivadavia": {
+    "goles_local": 4,
+    "goles_visitante": 8,
+    "recibidos_local": 8,
+    "recibidos_visitante": 9
+  },
+  "Newells Old Boys": {
+    "goles_local": 7,
+    "goles_visitante": 4,
+    "recibidos_local": 8,
+    "recibidos_visitante": 14
+  },
+  "Union": {
+    "goles_local": 7,
+    "goles_visitante": 9,
+    "recibidos_local": 5,
+    "recibidos_visitante": 8
+  },
+  "Instituto": {
+    "goles_local": 6,
+    "goles_visitante": 2,
+    "recibidos_local": 8,
+    "recibidos_visitante": 3
+  },
+  "Rosario Central": {
+    "goles_local": 7,
+    "goles_visitante": 10,
+    "recibidos_local": 4,
+    "recibidos_visitante": 2
+  },
+  "San Lorenzo": {
+    "goles_local": 5,
+    "goles_visitante": 6,
+    "recibidos_local": 1,
+    "recibidos_visitante": 7
+  },
+  "Deportivo Riestra": {
+    "goles_local": 11,
+    "goles_visitante": 6,
+    "recibidos_local": 2,
+    "recibidos_visitante": 7
+  },
+  "Boca Juniors": {
+    "goles_local": 12,
+    "goles_visitante": 10,
+    "recibidos_local": 6,
+    "recibidos_visitante": 5
+  },
+  "CA Platense": {
+    "goles_local": 4,
+    "goles_visitante": 5,
+    "recibidos_local": 6,
+    "recibidos_visitante": 13
+  },
+  "Sarmiento": {
+    "goles_local": 6,
+    "goles_visitante": 3,
+    "recibidos_local": 10,
+    "recibidos_visitante": 4
+  },
+  "Huracan": {
+    "goles_local": 2,
+    "goles_visitante": 3,
+    "recibidos_local": 6,
+    "recibidos_visitante": 5
+  },
+  "Central Cordoba Sde": {
+    "goles_local": 8,
+    "goles_visitante": 8,
+    "recibidos_local": 4,
+    "recibidos_visitante": 6
+  },
+  "Defensa y Justicia": {
+    "goles_local": 10,
+    "goles_visitante": 3,
+    "recibidos_local": 5,
+    "recibidos_visitante": 8
+  },
+  "Tigre": {
+    "goles_local": 8,
+    "goles_visitante": 3,
+    "recibidos_local": 6,
+    "recibidos_visitante": 4
+  },
+  "San Martin San Juan": {
+    "goles_local": 6,
+    "goles_visitante": 4,
+    "recibidos_local": 5,
+    "recibidos_visitante": 6
+  },
+  "Estudiantes": {
+    "goles_local": 10,
+    "goles_visitante": 5,
+    "recibidos_local": 5,
+    "recibidos_visitante": 8
+  },
+  "Gimnasia LP": {
+    "goles_local": 5,
+    "goles_visitante": 3,
+    "recibidos_local": 11,
+    "recibidos_visitante": 5
+  },
+  "River Plate": {
+    "goles_local": 10,
+    "goles_visitante": 10,
+    "recibidos_local": 6,
+    "recibidos_visitante": 6
+  },
+  "Belgrano Cordoba": {
+    "goles_local": 6,
+    "goles_visitante": 7,
+    "recibidos_local": 6,
+    "recibidos_visitante": 4
+  },
+  "Banfield": {
+    "goles_local": 6,
+    "goles_visitante": 6,
+    "recibidos_local": 8,
+    "recibidos_visitante": 10
+  },
+  "Lanus": {
+    "goles_local": 9,
+    "goles_visitante": 6,
+    "recibidos_local": 4,
+    "recibidos_visitante": 5
+  },
+  "Godoy Cruz": {
+    "goles_local": 3,
+    "goles_visitante": 6,
+    "recibidos_local": 6,
+    "recibidos_visitante": 10
+  },
+  "Racing Club": {
+    "goles_local": 5,
+    "goles_visitante": 8,
+    "recibidos_local": 5,
+    "recibidos_visitante": 6
+  }
+}
