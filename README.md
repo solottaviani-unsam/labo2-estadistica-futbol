@@ -2,4 +2,4 @@
 
 to visualice the proyect run in your terminal 
 
-`streamlit run controller.py`
+`streamlit run INTERFAZ/controller.py`
