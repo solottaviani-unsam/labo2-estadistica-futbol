@@ -2,17 +2,14 @@ import streamlit as st
 import sys
 import os
 
-# --------------------------------------------
-# Agregar al path la carpeta "machinelearni" app
-# --------------------------------------------
+
 sys.path.append(os.path.abspath("../MACHINE_LEARNING")) 
 
-# Importar tu modelo y función de predicción
+# Importo las funciones del modelo
 from data_set import predecir, obtener_equipos
 
-# --------------------------------------------
-# Interfaz
-# --------------------------------------------
+
+
 st.title("📊 Predicción de Partidos - Liga Argentina")
 st.write("proyecto laboratorio 2")
 
@@ -34,6 +31,8 @@ if st.button("Predecir Resultado"):
     else:
         resultado = predecir(local, visitante)
         st.success(resultado)
+
+        
 with st.expander("📌 ¿En qué se basa el modelo?"):
     st.write("""
     El modelo se entrenó utilizando datos históricos de la Liga Argentina.  
