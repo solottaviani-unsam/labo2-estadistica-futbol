@@ -14,7 +14,7 @@ from data_set import predecir, obtener_equipos
 # Interfaz
 # --------------------------------------------
 st.title("📊 Predicción de Partidos - Liga Argentina")
-st.write("Modelo cargado desde machinelearni/data_set.py")
+st.write("proyecto laboratorio 2")
 
 equipos = obtener_equipos()
 
