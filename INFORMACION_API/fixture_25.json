@@ -1,0 +1,6163 @@
+{
+  "result": {
+    "Boca Juniors": {
+      "resumen_rendimiento": {
+        "local": {
+          "partidos_jugados": 8,
+          "ganados": 3,
+          "empatados": 3,
+          "perdidos": 2
+        },
+        "visitante": {
+          "partidos_jugados": 8,
+          "ganados": 4,
+          "empatados": 2,
+          "perdidos": 2
+        },
+        "total": {
+          "partidos_jugados": 16,
+          "ganados": 7,
+          "empatados": 5,
+          "perdidos": 4
+        }
+      },
+      "fixture": [
+        {
+          "condicion": "Local",
+          "rival": "River",
+          "resultado_original": "2-0",
+          "resultado_desglosado": {
+            "goles_boca": 2,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Estudiantes",
+          "resultado_original": "1-2",
+          "resultado_desglosado": {
+            "goles_boca": 2,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Barracas",
+          "resultado_original": "1-3",
+          "resultado_desglosado": {
+            "goles_boca": 3,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Belgrano",
+          "resultado_original": "1-2",
+          "resultado_desglosado": {
+            "goles_boca": 1,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Newell's",
+          "resultado_original": "5-0",
+          "resultado_desglosado": {
+            "goles_boca": 5,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Defensa",
+          "resultado_original": "2-1",
+          "resultado_desglosado": {
+            "goles_boca": 1,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Central Córdoba",
+          "resultado_original": "2-2",
+          "resultado_desglosado": {
+            "goles_boca": 2,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Central",
+          "resultado_original": "1-1",
+          "resultado_desglosado": {
+            "goles_boca": 1,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Aldosivi",
+          "resultado_original": "0-2",
+          "resultado_desglosado": {
+            "goles_boca": 2,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Banfield",
+          "resultado_original": "2-0",
+          "resultado_desglosado": {
+            "goles_boca": 2,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Ind. Rivadavia",
+          "resultado_original": "0-3",
+          "resultado_desglosado": {
+            "goles_boca": 3,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Racing",
+          "resultado_original": "1-1",
+          "resultado_desglosado": {
+            "goles_boca": 1,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Huracán",
+          "resultado_original": "1-0",
+          "resultado_desglosado": {
+            "goles_boca": 0,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Atl. Tucumán",
+          "resultado_original": "1-2",
+          "resultado_desglosado": {
+            "goles_boca": 1,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Unión",
+          "resultado_original": "1-1",
+          "resultado_desglosado": {
+            "goles_boca": 1,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Argentinos",
+          "resultado_original": "0-0",
+          "resultado_desglosado": {
+            "goles_boca": 0,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Empatado"
+        }
+      ]
+    },
+    "River Plate": {
+      "resumen_rendimiento": {
+        "local": {
+          "partidos_jugados": 8,
+          "ganados": 2,
+          "empatados": 2,
+          "perdidos": 4
+        },
+        "visitante": {
+          "partidos_jugados": 15,
+          "ganados": 4,
+          "empatados": 5,
+          "perdidos": 6
+        },
+        "total": {
+          "partidos_jugados": 23,
+          "ganados": 6,
+          "empatados": 7,
+          "perdidos": 10
+        }
+      },
+      "fixture": [
+        {
+          "condicion": "Visitante",
+          "rival": "Boca Jrs.",
+          "resultado_original": "2-0",
+          "resultado_desglosado": {
+            "goles_river": 0,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Gimnasia",
+          "resultado_original": "0-1",
+          "resultado_desglosado": {
+            "goles_river": 0,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Ind. Rivadavia",
+          "resultado_original": "0-0",
+          "resultado_desglosado": {
+            "goles_river": 0,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Talleres",
+          "resultado_original": "0-2",
+          "resultado_desglosado": {
+            "goles_river": 2,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Sarmiento",
+          "resultado_original": "0-1",
+          "resultado_desglosado": {
+            "goles_river": 0,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Central",
+          "resultado_original": "2-1",
+          "resultado_desglosado": {
+            "goles_river": 1,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Racing",
+          "resultado_original": "0-1",
+          "resultado_desglosado": {
+            "goles_river": 1,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Riestra",
+          "resultado_original": "1-2",
+          "resultado_desglosado": {
+            "goles_river": 1,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Palmeiras",
+          "resultado_original": "3-1",
+          "resultado_desglosado": {
+            "goles_river": 1,
+            "goles_rival": 3
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Atl. Tucumán",
+          "resultado_original": "2-0",
+          "resultado_desglosado": {
+            "goles_river": 0,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Palmeiras",
+          "resultado_original": "1-2",
+          "resultado_desglosado": {
+            "goles_river": 1,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Estudiantes",
+          "resultado_original": "1-2",
+          "resultado_desglosado": {
+            "goles_river": 2,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "San Martin",
+          "resultado_original": "2-0",
+          "resultado_desglosado": {
+            "goles_river": 2,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Unión",
+          "resultado_original": "0-0",
+          "resultado_desglosado": {
+            "goles_river": 0,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Lanús",
+          "resultado_original": "1-1",
+          "resultado_desglosado": {
+            "goles_river": 1,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Libertad",
+          "resultado_original": "1-1",
+          "resultado_desglosado": {
+            "goles_river": 1,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Godoy Cruz",
+          "resultado_original": "4-2",
+          "resultado_desglosado": {
+            "goles_river": 4,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Libertad",
+          "resultado_original": "0-0",
+          "resultado_desglosado": {
+            "goles_river": 0,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Independiente",
+          "resultado_original": "0-0",
+          "resultado_desglosado": {
+            "goles_river": 0,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "San Martin (T)",
+          "resultado_original": "0-3",
+          "resultado_desglosado": {
+            "goles_river": 3,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "San Lorenzo",
+          "resultado_original": "0-0",
+          "resultado_desglosado": {
+            "goles_river": 0,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Instituto",
+          "resultado_original": "0-4",
+          "resultado_desglosado": {
+            "goles_river": 4,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Platense",
+          "resultado_original": "3-1",
+          "resultado_desglosado": {
+            "goles_river": 3,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Ganado"
+        }
+      ]
+    },
+    "Argentinos Juniors": {
+      "resumen_rendimiento": {
+        "local": {
+          "partidos_jugados": 9,
+          "ganados": 7,
+          "empatados": 2,
+          "perdidos": 0
+        },
+        "visitante": {
+          "partidos_jugados": 10,
+          "ganados": 4,
+          "empatados": 3,
+          "perdidos": 3
+        },
+        "total": {
+          "partidos_jugados": 19,
+          "ganados": 11,
+          "empatados": 5,
+          "perdidos": 3
+        }
+      },
+      "fixture": [
+        {
+          "condicion": "Local",
+          "rival": "Belgrano",
+          "resultado_original": "1-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 1,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Ind. Rivadavia",
+          "resultado_original": "2-2",
+          "resultado_desglosado": {
+            "goles_argentinos": 2,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Barracas",
+          "resultado_original": "2-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 0,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Belgrano",
+          "resultado_original": "1-2",
+          "resultado_desglosado": {
+            "goles_argentinos": 2,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Newell's",
+          "resultado_original": "3-1",
+          "resultado_desglosado": {
+            "goles_argentinos": 3,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Defensa",
+          "resultado_original": "1-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 0,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Central Córdoba",
+          "resultado_original": "0-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 0,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Aldosivi",
+          "resultado_original": "0-2",
+          "resultado_desglosado": {
+            "goles_argentinos": 2,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Banfield",
+          "resultado_original": "3-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 3,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Instituto",
+          "resultado_original": "2-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 0,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Lanús",
+          "resultado_original": "1-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 1,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Ind. Rivadavia",
+          "resultado_original": "2-1",
+          "resultado_desglosado": {
+            "goles_argentinos": 1,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Racing",
+          "resultado_original": "4-1",
+          "resultado_desglosado": {
+            "goles_argentinos": 4,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Huracán",
+          "resultado_original": "1-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 0,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Unión",
+          "resultado_original": "1-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 1,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Aldosivi",
+          "resultado_original": "1-2",
+          "resultado_desglosado": {
+            "goles_argentinos": 2,
+            "goles_rival": 1
+          },
+          "partido_resultado": "Ganado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Platense",
+          "resultado_original": "0-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 0,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Empatado"
+        },
+        {
+          "condicion": "Visitante",
+          "rival": "Tigre",
+          "resultado_original": "2-1",
+          "resultado_desglosado": {
+            "goles_argentinos": 1,
+            "goles_rival": 2
+          },
+          "partido_resultado": "Perdido"
+        },
+        {
+          "condicion": "Local",
+          "rival": "Boca Jrs.",
+          "resultado_original": "0-0",
+          "resultado_desglosado": {
+            "goles_argentinos": 0,
+            "goles_rival": 0
+          },
+          "partido_resultado": "Empatado"
+        }
+      ]
+    },
+  "Aldosivi": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 2,
+        "empatados": 3,
+        "perdidos": 3
+      },
+      "visitante": {
+        "partidos_jugados": 8,
+        "ganados": 3,
+        "empatados": 0,
+        "perdidos": 5
+      },
+      "total": {
+        "partidos_jugados": 16,
+        "ganados": 5,
+        "empatados": 3,
+        "perdidos": 8
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Banfield",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_aldosivi": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_aldosivi": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Huracán",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_aldosivi": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Unión",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_aldosivi": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Tigre",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Sarmiento",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Boca Jrs.",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Estudiantes",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Belgrano",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Barracas",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_aldosivi": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_aldosivi": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Newell's",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Defensa",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_aldosivi": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },
+
+  "Central Córdoba": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 3,
+        "empatados": 3,
+        "perdidos": 2
+      },
+      "visitante": {
+        "partidos_jugados": 8,
+        "ganados": 2,
+        "empatados": 3,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 16,
+        "ganados": 5,
+        "empatados": 6,
+        "perdidos": 5
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Racing",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Huracán",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Unión",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Argentinos",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Tigre",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Boca Jrs.",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Riestra",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Estudiantes",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Belgrano",
+        "resultado_original": "0-3",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Lanús",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Barracas",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Lanús",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Newell's",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Defensa",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_central_cordoba": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      }
+    ]
+  },
+  "Banfield": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 3,
+        "empatados": 2,
+        "perdidos": 3
+      },
+      "visitante": {
+        "partidos_jugados": 7,
+        "ganados": 2,
+        "empatados": 0,
+        "perdidos": 5
+      },
+      "total": {
+        "partidos_jugados": 15,
+        "ganados": 5,
+        "empatados": 2,
+        "perdidos": 8
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Aldosivi",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_banfield": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Lanús",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_banfield": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_banfield": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Racing",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_banfield": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Huracán",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_banfield": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Unión",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_banfield": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Argentinos",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_banfield": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Independiente",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_banfield": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Tigre",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_banfield": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Boca Jrs.",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_banfield": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Estudiantes",
+        "resultado_original": "3-2",
+        "resultado_desglosado": {
+          "goles_banfield": 3,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Belgrano",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_banfield": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Barracas",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_banfield": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Newell's",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_banfield": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Defensa",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_banfield": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },  "Barracas Central": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 1,
+        "empatados": 3,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 7,
+        "ganados": 0,
+        "empatados": 4,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 15,
+        "ganados": 1,
+        "empatados": 7,
+        "perdidos": 7
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Unión",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_barracas": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_barracas": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Boca Jrs.",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_barracas": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Tigre",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_barracas": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Estudiantes",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_barracas": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Belgrano",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_barracas": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Sarmiento",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_barracas": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Godoy Cruz",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_barracas": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Newell's",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_barracas": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Defensa",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_barracas": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central Córdoba",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_barracas": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Aldosivi",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_barracas": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Banfield",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_barracas": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "0-3",
+        "resultado_desglosado": {
+          "goles_barracas": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_barracas": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      }
+    ]
+  },  "Belgrano": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 9,
+        "ganados": 3,
+        "empatados": 3,
+        "perdidos": 3
+      },
+      "visitante": {
+        "partidos_jugados": 9,
+        "ganados": 2,
+        "empatados": 4,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 18,
+        "ganados": 5,
+        "empatados": 7,
+        "perdidos": 6
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Argentinos",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_belgrano": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Tigre",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_belgrano": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_belgrano": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Boca Jrs.",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_belgrano": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Estudiantes",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_belgrano": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Talleres",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_belgrano": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Barracas",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_belgrano": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Newell's",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_belgrano": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Newell's",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_belgrano": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Martin",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_belgrano": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Defensa",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_belgrano": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "0-3",
+        "resultado_desglosado": {
+          "goles_belgrano": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Aldosivi",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_belgrano": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Banfield",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_belgrano": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_belgrano": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_belgrano": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Racing",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_belgrano": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Huracán",
+        "resultado_original": "0-3",
+        "resultado_desglosado": {
+          "goles_belgrano": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      }
+    ]
+  },  "Defensa y Justicia": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 3,
+        "empatados": 1,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 7,
+        "ganados": 4,
+        "empatados": 2,
+        "perdidos": 1
+      },
+      "total": {
+        "partidos_jugados": 15,
+        "ganados": 7,
+        "empatados": 3,
+        "perdidos": 5
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_defensa": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Huracán",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_defensa": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Unión",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_defensa": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_defensa": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Tigre",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_defensa": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Boca Jrs.",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_defensa": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Estudiantes",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_defensa": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Platense",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_defensa": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Belgrano",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_defensa": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Barracas",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_defensa": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Newell's",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_defensa": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Riestra",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_defensa": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central Córdoba",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_defensa": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Aldosivi",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_defensa": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Banfield",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_defensa": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },  "Estudiantes": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 10,
+        "ganados": 5,
+        "empatados": 1,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 10,
+        "ganados": 4,
+        "empatados": 2,
+        "perdidos": 4
+      },
+      "total": {
+        "partidos_jugados": 20,
+        "ganados": 9,
+        "empatados": 3,
+        "perdidos": 8
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Tigre",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_estudiantes": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Boca Jrs.",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Gimnasia",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_estudiantes": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Belgrano",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Barracas",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Newell's",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Flamengo",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Defensa",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Flamengo",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central Córdoba",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_estudiantes": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Aldosivi",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Cerro Porteño",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_estudiantes": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Banfield",
+        "resultado_original": "3-2",
+        "resultado_desglosado": {
+          "goles_estudiantes": 2,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Cerro Porteño",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_estudiantes": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_estudiantes": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Huracán",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_estudiantes": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Unión",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_estudiantes": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_estudiantes": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      }
+    ]
+  },  "Independiente Rivadavia": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 10,
+        "ganados": 1,
+        "empatados": 5,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 9,
+        "ganados": 1,
+        "empatados": 3,
+        "perdidos": 5
+      },
+      "total": {
+        "partidos_jugados": 19,
+        "ganados": 2,
+        "empatados": 8,
+        "perdidos": 9
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Aldosivi",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Banfield",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Godoy Cruz",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Huracán",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Unión",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Lanús",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Tigre",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Tigre",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Boca Jrs.",
+        "resultado_original": "0-3",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Estudiantes",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Belgrano",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Barracas",
+        "resultado_original": "0-3",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Newell's",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_ind_rivadavia": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      }
+    ]
+  },  "Huracán": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 10,
+        "ganados": 3,
+        "empatados": 1,
+        "perdidos": 6
+      },
+      "visitante": {
+        "partidos_jugados": 8,
+        "ganados": 2,
+        "empatados": 3,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 18,
+        "ganados": 5,
+        "empatados": 4,
+        "perdidos": 9
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Newell's",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_huracan": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Defensa",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_huracan": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_huracan": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Aldosivi",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_huracan": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Banfield",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_huracan": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_huracan": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Racing",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_huracan": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_huracan": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Lorenzo",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_huracan": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Unión",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_huracan": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Once Caldas",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_huracan": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_huracan": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Once Caldas",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_huracan": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Tigre",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_huracan": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Lanús",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_huracan": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Boca Jrs.",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_huracan": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Estudiantes",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_huracan": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Belgrano",
+        "resultado_original": "0-3",
+        "resultado_desglosado": {
+          "goles_huracan": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      }
+    ]
+  },  "Racing Club": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 12,
+        "ganados": 4,
+        "empatados": 4,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 12,
+        "ganados": 3,
+        "empatados": 3,
+        "perdidos": 6
+      },
+      "total": {
+        "partidos_jugados": 24,
+        "ganados": 7,
+        "empatados": 7,
+        "perdidos": 10
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Defensa",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_racing": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central Córdoba",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Flamengo",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Flamengo",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Aldosivi",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_racing": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Banfield",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_racing": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_racing": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Huracán",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_racing": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_racing": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Lorenzo",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_racing": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Gimnasia",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Unión",
+        "resultado_original": "2-3",
+        "resultado_desglosado": {
+          "goles_racing": 2,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Argentinos",
+        "resultado_original": "4-1",
+        "resultado_desglosado": {
+          "goles_racing": 1,
+          "goles_rival": 4
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Peñarol",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_racing": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Tigre",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_racing": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Peñarol",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Boca Jrs.",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_racing": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Riestra",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_racing": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Estudiantes",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Belgrano",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_racing": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Barracas",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_racing": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      }
+    ]
+  },
+  "Unión": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 2,
+        "empatados": 3,
+        "perdidos": 3
+      },
+      "visitante": {
+        "partidos_jugados": 8,
+        "ganados": 1,
+        "empatados": 2,
+        "perdidos": 5
+      },
+      "total": {
+        "partidos_jugados": 16,
+        "ganados": 3,
+        "empatados": 5,
+        "perdidos": 8
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Barracas",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_union": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Newell's",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_union": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Defensa",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_union": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central Córdoba",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_union": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Aldosivi",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_union": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Banfield",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_union": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_union": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_union": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "2-3",
+        "resultado_desglosado": {
+          "goles_union": 3,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_union": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Huracán",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_union": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Instituto",
+        "resultado_original": "0-4",
+        "resultado_desglosado": {
+          "goles_union": 4,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Argentinos",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_union": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Tigre",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_union": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Boca Jrs.",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_union": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Estudiantes",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_union": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      }
+    ]
+  },
+  "Newell's Old Boys": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 9,
+        "ganados": 2,
+        "empatados": 3,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 8,
+        "ganados": 2,
+        "empatados": 2,
+        "perdidos": 4
+      },
+      "total": {
+        "partidos_jugados": 17,
+        "ganados": 4,
+        "empatados": 5,
+        "perdidos": 8
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Huracán",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_newells": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Unión",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_newells": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Argentinos",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_newells": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Tigre",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_newells": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Boca Jrs.",
+        "resultado_original": "5-0",
+        "resultado_desglosado": {
+          "goles_newells": 0,
+          "goles_rival": 5
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Estudiantes",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_newells": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Belgrano",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_newells": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Belgrano",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_newells": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_newells": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Barracas",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_newells": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_newells": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Defensa",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_newells": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "2-3",
+        "resultado_desglosado": {
+          "goles_newells": 3,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_newells": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Aldosivi",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_newells": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Banfield",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_newells": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_newells": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      }
+    ]
+  },  "Tigre": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 2,
+        "empatados": 4,
+        "perdidos": 2
+      },
+      "visitante": {
+        "partidos_jugados": 8,
+        "ganados": 3,
+        "empatados": 1,
+        "perdidos": 4
+      },
+      "total": {
+        "partidos_jugados": 16,
+        "ganados": 5,
+        "empatados": 5,
+        "perdidos": 6
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Belgrano",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_tigre": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Barracas",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_tigre": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Newell's",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_tigre": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Defensa",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_tigre": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_tigre": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Aldosivi",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_tigre": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Talleres",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_tigre": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_tigre": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Banfield",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_tigre": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_tigre": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Racing",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_tigre": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Huracán",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_tigre": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Lorenzo",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_tigre": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Unión",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_tigre": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_tigre": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_tigre": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Estudiantes",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_tigre": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      }
+    ]
+  },  "Atlético Tucumán": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 9,
+        "ganados": 4,
+        "empatados": 2,
+        "perdidos": 3
+      },
+      "visitante": {
+        "partidos_jugados": 7,
+        "ganados": 3,
+        "empatados": 1,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 16,
+        "ganados": 7,
+        "empatados": 3,
+        "perdidos": 6
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Godoy Cruz",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_tucuman": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Independiente",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_tucuman": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Lorenzo",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_tucuman": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Instituto",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_tucuman": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Platense",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_tucuman": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_tucuman": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_tucuman": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Newell's",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_tucuman": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_tucuman": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Talleres",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_tucuman": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Sarmiento",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_tucuman": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Newell's",
+        "resultado_original": "2-3",
+        "resultado_desglosado": {
+          "goles_tucuman": 2,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_tucuman": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Riestra",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_tucuman": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Boca Jrs.",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_tucuman": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_tucuman": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },  "Riestra": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 9,
+        "ganados": 5,
+        "empatados": 2,
+        "perdidos": 2
+      },
+      "visitante": {
+        "partidos_jugados": 7,
+        "ganados": 2,
+        "empatados": 1,
+        "perdidos": 4
+      },
+      "total": {
+        "partidos_jugados": 16,
+        "ganados": 7,
+        "empatados": 3,
+        "perdidos": 6
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_riestra": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Lorenzo",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_riestra": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Instituto",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_riestra": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Platense",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_riestra": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_riestra": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "River",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_riestra": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Gimnasia",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_riestra": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_riestra": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Talleres",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_riestra": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Sarmiento",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_riestra": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_riestra": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Defensa",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_riestra": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_riestra": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_riestra": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Martín",
+        "resultado_original": "3-2",
+        "resultado_desglosado": {
+          "goles_riestra": 2,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Lanús",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_riestra": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      }
+    ]
+  },  "Independiente": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 2,
+        "empatados": 3,
+        "perdidos": 3
+      },
+      "visitante": {
+        "partidos_jugados": 9,
+        "ganados": 3,
+        "empatados": 3,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 17,
+        "ganados": 5,
+        "empatados": 6,
+        "perdidos": 6
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_independiente": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Platense",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_independiente": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Martín",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_independiente": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Lanús",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_independiente": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Godoy Cruz",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_independiente": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_independiente": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Lorenzo",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_independiente": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Banfield",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_independiente": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Instituto",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_independiente": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "U. de Chile",
+        "resultado_original": "",
+        "resultado_desglosado": {
+          "goles_independiente": null,
+          "goles_rival": null
+        },
+        "partido_resultado": "Por jugar"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_independiente": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "U. de Chile",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_independiente": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_independiente": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Belgrano",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_independiente": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_independiente": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Talleres",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_independiente": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Sarmiento",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_independiente": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },  "Instituto": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 9,
+        "ganados": 1,
+        "empatados": 4,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 7,
+        "ganados": 1,
+        "empatados": 2,
+        "perdidos": 4
+      },
+      "total": {
+        "partidos_jugados": 16,
+        "ganados": 2,
+        "empatados": 6,
+        "perdidos": 8
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Sarmiento",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_instituto": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_instituto": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Riestra",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_instituto": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_instituto": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Martín",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_instituto": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Lanús",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_instituto": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Godoy Cruz",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_instituto": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_instituto": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_instituto": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Lorenzo",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_instituto": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Unión",
+        "resultado_original": "0-4",
+        "resultado_desglosado": {
+          "goles_instituto": 0,
+          "goles_rival": 4
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Platense",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_instituto": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_instituto": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "0-4",
+        "resultado_desglosado": {
+          "goles_instituto": 0,
+          "goles_rival": 4
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_instituto": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Huracán",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_instituto": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },  "Gimnasia": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 9,
+        "ganados": 3,
+        "empatados": 1,
+        "perdidos": 5
+      },
+      "visitante": {
+        "partidos_jugados": 7,
+        "ganados": 2,
+        "empatados": 2,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 16,
+        "ganados": 5,
+        "empatados": 3,
+        "perdidos": 8
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_gimnasia": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "River",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_gimnasia": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Estudiantes",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_gimnasia": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Talleres",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_gimnasia": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Sarmiento",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_gimnasia": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central",
+        "resultado_original": "0-3",
+        "resultado_desglosado": {
+          "goles_gimnasia": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Riestra",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_gimnasia": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Unión",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_gimnasia": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_gimnasia": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_gimnasia": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Martín",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_gimnasia": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Lanús",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_gimnasia": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Godoy Cruz",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_gimnasia": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_gimnasia": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Lorenzo",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_gimnasia": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Instituto",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_gimnasia": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      }
+    ]
+  },  "Godoy Cruz": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 9,
+        "ganados": 1,
+        "empatados": 5,
+        "perdidos": 3
+      },
+      "visitante": {
+        "partidos_jugados": 8,
+        "ganados": 3,
+        "empatados": 2,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 17,
+        "ganados": 4,
+        "empatados": 7,
+        "perdidos": 6
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Martín",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Lanús",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Lorenzo",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Instituto",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Barracas",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Platense",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Atlético Mineiro",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "River",
+        "resultado_original": "4-2",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 2,
+          "goles_rival": 4
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Atlético Mineiro",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Gimnasia",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Talleres",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Sarmiento",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_godoy_cruz": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },  "Lanús": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 12,
+        "ganados": 7,
+        "empatados": 1,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 11,
+        "ganados": 2,
+        "empatados": 4,
+        "perdidos": 5
+      },
+      "total": {
+        "partidos_jugados": 23,
+        "ganados": 9,
+        "empatados": 5,
+        "perdidos": 9
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "San Martín",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_lanus": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Banfield",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_lanus": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "U. de Chile",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_lanus": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "U. de Chile",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_lanus": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Godoy Cruz",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_lanus": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Independiente",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_lanus": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Lorenzo",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_lanus": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Instituto",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_lanus": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Fluminense",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_lanus": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Platense",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_lanus": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Fluminense",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_lanus": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_lanus": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Argentinos",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_lanus": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_lanus": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_lanus": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_lanus": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_lanus": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central Córdoba",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_lanus": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Talleres",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_lanus": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Huracán",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_lanus": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Sarmiento",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_lanus": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_lanus": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Riestra",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_lanus": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      }
+    ]
+  },  "Platense": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 10,
+        "ganados": 3,
+        "empatados": 5,
+        "perdidos": 2
+      },
+      "visitante": {
+        "partidos_jugados": 12,
+        "ganados": 3,
+        "empatados": 3,
+        "perdidos": 6
+      },
+      "total": {
+        "partidos_jugados": 22,
+        "ganados": 6,
+        "empatados": 8,
+        "perdidos": 8
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Talleres",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_platense": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Sarmiento",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Independiente",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_platense": 0,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_platense": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Riestra",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_platense": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Martín",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_platense": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Lanús",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Defensa",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_platense": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Godoy Cruz",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Lorenzo",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_platense": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Instituto",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Argentinos",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_platense": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_platense": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "River",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Ind. Rivadavia",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_platense": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Huracán",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Lorenzo",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "River",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_platense": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_platense": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Talleres",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_platense": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      }
+    ]
+  },  "Rosario Central": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 15,
+        "ganados": 3,
+        "empatados": 8,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 8,
+        "ganados": 0,
+        "empatados": 2,
+        "perdidos": 6
+      },
+      "total": {
+        "partidos_jugados": 23,
+        "ganados": 3,
+        "empatados": 10,
+        "perdidos": 10
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "San Lorenzo",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_central": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Instituto",
+        "resultado_original": "1-3",
+        "resultado_desglosado": {
+          "goles_central": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Sarmiento",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Platense",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_central": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_central": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "0-3",
+        "resultado_desglosado": {
+          "goles_central": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Talleres",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Boca Jrs.",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Newell's",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Riestra",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_central": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Martín",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_central": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Lanús",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Godoy Cruz",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Unión",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_central": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Huracán",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_central": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Estudiantes",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_central": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Lorenzo",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_central": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Instituto",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_central": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Platense",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_central": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },  "San Martín (San Juan)": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 2,
+        "empatados": 3,
+        "perdidos": 3
+      },
+      "visitante": {
+        "partidos_jugados": 8,
+        "ganados": 1,
+        "empatados": 4,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 16,
+        "ganados": 3,
+        "empatados": 7,
+        "perdidos": 6
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Lanús",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_san_martin": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Godoy Cruz",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_martin": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_san_martin": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Lorenzo",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_san_martin": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Instituto",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_martin": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Platense",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_san_martin": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_san_martin": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Belgrano",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_martin": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "River",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_san_martin": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Gimnasia",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_san_martin": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Talleres",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_martin": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Sarmiento",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_san_martin": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_martin": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Riestra",
+        "resultado_original": "3-2",
+        "resultado_desglosado": {
+          "goles_san_martin": 3,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_san_martin": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_san_martin": 1,
+          "goles_rival": 3
+        },
+        "partido_resultado": "Perdido"
+      }
+    ]
+  },
+  "San Lorenzo": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 11,
+        "ganados": 3,
+        "empatados": 3,
+        "perdidos": 5
+      },
+      "visitante": {
+        "partidos_jugados": 10,
+        "ganados": 3,
+        "empatados": 5,
+        "perdidos": 2
+      },
+      "total": {
+        "partidos_jugados": 21,
+        "ganados": 6,
+        "empatados": 8,
+        "perdidos": 7
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Central",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Riestra",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Martín",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Lanús",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Godoy Cruz",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Independiente",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Huracán",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Instituto",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Platense",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Tigre",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "River",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Gimnasia",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Talleres",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Quilmes",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Platense",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Argentinos",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Tigre",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Sarmiento",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_san_lorenzo": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },
+  "Sarmiento": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 11,
+        "ganados": 2,
+        "empatados": 3,
+        "perdidos": 6
+      },
+      "visitante": {
+        "partidos_jugados": 11,
+        "ganados": 2,
+        "empatados": 4,
+        "perdidos": 5
+      },
+      "total": {
+        "partidos_jugados": 22,
+        "ganados": 4,
+        "empatados": 7,
+        "perdidos": 11
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Instituto",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Platense",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Vélez",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "River",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Gimnasia",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Talleres",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_sarmiento": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Barracas",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Aldosivi",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_sarmiento": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Riestra",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_sarmiento": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_sarmiento": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Martín",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Lanús",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Godoy Cruz",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_sarmiento": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Lorenzo",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Instituto",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Platense",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_sarmiento": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_sarmiento": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      }
+    ]
+  },
+  "Talleres": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 8,
+        "ganados": 1,
+        "empatados": 3,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 7,
+        "ganados": 2,
+        "empatados": 2,
+        "perdidos": 3
+      },
+      "total": {
+        "partidos_jugados": 15,
+        "ganados": 3,
+        "empatados": 5,
+        "perdidos": 7
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Local",
+        "rival": "Platense",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_talleres": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Vélez",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_talleres": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "River",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_talleres": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_talleres": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Belgrano",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_talleres": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Sarmiento",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_talleres": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Central",
+        "resultado_original": "1-1",
+        "resultado_desglosado": {
+          "goles_talleres": 1,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Tigre",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_talleres": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Riestra",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_talleres": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_talleres": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Martín",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_talleres": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Lanús",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_talleres": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Godoy Cruz",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_talleres": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Independiente",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_talleres": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "San Lorenzo",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_talleres": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      }
+    ]
+  },
+  "Vélez Sarsfield": {
+    "resumen_rendimiento": {
+      "local": {
+        "partidos_jugados": 10,
+        "ganados": 5,
+        "empatados": 1,
+        "perdidos": 4
+      },
+      "visitante": {
+        "partidos_jugados": 11,
+        "ganados": 2,
+        "empatados": 4,
+        "perdidos": 5
+      },
+      "total": {
+        "partidos_jugados": 21,
+        "ganados": 7,
+        "empatados": 5,
+        "perdidos": 9
+      }
+    },
+    "fixture": [
+      {
+        "condicion": "Visitante",
+        "rival": "Gimnasia",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_velez": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Talleres",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_velez": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Sarmiento",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_velez": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_velez": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Riestra",
+        "resultado_original": "2-2",
+        "resultado_desglosado": {
+          "goles_velez": 2,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Atl. Tucumán",
+        "resultado_original": "3-1",
+        "resultado_desglosado": {
+          "goles_velez": 3,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Racing",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_velez": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Martín",
+        "resultado_original": "1-2",
+        "resultado_desglosado": {
+          "goles_velez": 1,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Racing",
+        "resultado_original": "0-1",
+        "resultado_desglosado": {
+          "goles_velez": 0,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Huracán",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_velez": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Central Córdoba",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_velez": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Lanús",
+        "resultado_original": "3-0",
+        "resultado_desglosado": {
+          "goles_velez": 3,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Godoy Cruz",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_velez": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Fortaleza",
+        "resultado_original": "2-0",
+        "resultado_desglosado": {
+          "goles_velez": 2,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Independiente",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_velez": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Fortaleza",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_velez": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "San Lorenzo",
+        "resultado_original": "1-0",
+        "resultado_desglosado": {
+          "goles_velez": 1,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Instituto",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_velez": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Platense",
+        "resultado_original": "0-0",
+        "resultado_desglosado": {
+          "goles_velez": 0,
+          "goles_rival": 0
+        },
+        "partido_resultado": "Empatado"
+      },
+      {
+        "condicion": "Local",
+        "rival": "Tigre",
+        "resultado_original": "2-1",
+        "resultado_desglosado": {
+          "goles_velez": 2,
+          "goles_rival": 1
+        },
+        "partido_resultado": "Ganado"
+      },
+      {
+        "condicion": "Visitante",
+        "rival": "Estudiantes",
+        "resultado_original": "0-2",
+        "resultado_desglosado": {
+          "goles_velez": 0,
+          "goles_rival": 2
+        },
+        "partido_resultado": "Perdido"
+      }
+    ]
+  }
+
+
+
+
+
+
+  }
+} 
