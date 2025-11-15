@@ -7,13 +7,13 @@ from sklearn.metrics import classification_report
 # --------------------------
 # 1. Cargar archivos JSON
 # --------------------------
-with open("/mnt/data/fixture_completo.json") as f:
+with open("../INFORMACION_API/fixture_completo.json") as f:
     fixture = json.load(f)
 
-with open("/mnt/data/goles_local_visitante.json") as f:
+with open("../INFORMACION_API/goles_local_visitante.json") as f:
     goles = json.load(f)
 
-with open("/mnt/data/tabla_posiciones_fase_2.json") as f:
+with open("../INFORMACION_API/tabla_posiciones_fase_2.json") as f:
     tabla = json.load(f)
 
 tabla_df = pd.DataFrame(tabla)
@@ -139,3 +139,6 @@ def predecir(local, visitante):
         return f"🏆 Gana {visitante}"
     else:
         return "🤝 Empate probable"
+ #prueba   
+def obtener_equipos():
+ return sorted(tabla_df["equipo"].unique())
