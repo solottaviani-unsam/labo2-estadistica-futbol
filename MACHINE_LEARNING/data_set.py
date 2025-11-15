@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report
 
 # ---------------------------------------
 # 1. CARGA DE JSON
-# ---------------------------------------
+# --------------------------------------- 
 with open("../INFORMACION_API/fixture_completo.json", encoding="utf-8") as f:
     fixture = json.load(f)
 
