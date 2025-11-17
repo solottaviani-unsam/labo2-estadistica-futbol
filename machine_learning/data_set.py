@@ -1,9 +1,10 @@
 import json
 from pathlib import Path #importo esta libreria porque me ayuda por un error de importacion que estaba teniendo
 import pandas as pd
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split #Split arrays or matrices into random train and test subsets.
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report #Build a text report showing the main classification metrics.
+
 
 # 1. CARGA DE JSON 
 # Esto evita depender del `cwd` desde el que se ejecute Streamlit/Python que me estaba fallando
@@ -69,7 +70,7 @@ for match in fixture:
     visitante = match["away"]["name"]
 
     score = match["scores"]["ft_score"]  #Ejemplo: "3 - 0"
-    gl, gv = map(int, score.split("-"))
+    gl, gv = map(int, score.split("-")) #gl = goles local, gv = goles visitante
 
     # Resultado objetivo
     if gl > gv:
@@ -114,9 +115,14 @@ y = df["resultado"]
 
 X = X.fillna(0)
 
+#train_test_split: Divide matrices o arreglos en subconjuntos aleatorios de entrenamiento y prueba.
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.25, random_state=42
 )
+#X_train = datos de entrenamiento
+#X_test = datos de prueba
+#y_train = etiquetas de entrenamiento
+#y_test = etiquetas de prueba
 
 model = LogisticRegression(
     multi_class="multinomial",
@@ -124,10 +130,12 @@ model = LogisticRegression(
     max_iter=1000
 )
 
+#model.fit: Es el proceso en el que el modelo aprende de los datos.
 model.fit(X_train, y_train)
 
 print("funciona?")
-print(classification_report(y_test, y_pred := model.predict(X_test)))
+print(classification_report(y_test, y_pred := model.predict(X_test))) 
+#classification_report: Construye un informe de texto que muestra las principales métricas de clasificación.
 
 # 5. FUNCIÓN DE PREDICCIÓN PARA LA INTERFAZ GRAFICA
 def predecir(local, visitante):
@@ -141,6 +149,7 @@ def predecir(local, visitante):
 
     X_new = pd.DataFrame([row]).fillna(0)
 
+    #predict: Realiza predicciones utilizando el modelo entrenado. (La magia que hace todo lo importante)
     pred = model.predict(X_new)[0]
 
     if pred == 2:
