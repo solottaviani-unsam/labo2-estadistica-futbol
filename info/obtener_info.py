@@ -1,9 +1,9 @@
 import requests
 import json
 
-# CREDENCIALES
-API_KEY = '5kW8o9bTC8dl47dX'       # Reemplazá con tu clave real
-SECRET = 'SY4dFa5AvLSDa2zgnvoLFAFiISDMZQJS'         # Reemplazá con tu secreto real
+# CREDENCIALES SOLICITADAS POR LA API livescore
+API_KEY = '5kW8o9bTC8dl47dX'       # Reemplazamos con la API key real
+SECRET = 'SY4dFa5AvLSDa2zgnvoLFAFiISDMZQJS'         # Reemplazamos con un secreto real
 
 # URL BASE
 BASE_URL = 'https://livescore-api.com/api-client'
@@ -36,24 +36,25 @@ print("Tabla de posiciones guardada exitosamente.")
 
 #OBTENER EL FIXTURE DE PARTIDOS, EL CUAL TIENE 7 PAGINAS
 all_matches = []
-for page in range(1, 8):  # Hay 7 páginas
+for page in range(1, 8):  # Hago un range para iterar sobre las 7 paginas 
     url = f'{BASE_URL}/matches/history.json?key={API_KEY}&secret={SECRET}&competition_id={COMPETITION_ID}&from=2025-07-10&to=2025-11-02&page={page}'
     response = requests.get(url)
     data = response.json()
     all_matches.extend(data['data']['match'])
 
-#GUARDO EN UN JSON EL FIXTURE COMPLETO
+#GUARDAMOS EN UN JSON EL FIXTURE COMPLETO
 with open('fixture_completo.json', 'w') as f:
     json.dump(all_matches, f, indent=2)
 
 print("Fixture completo guardado con las 7 páginas.")
-# PROCESAR GOLES LOCALES Y VISITANTES
+# PROCESA GOLES LOCALES Y VISITANTES
 estadisticas = {}
 for match in all_matches:
     if match.get('status') != 'FINISHED':
         continue
-
+    #home_team = equipo local
     home_team = match['home']['name']
+    #away_team = equipo visitante
     away_team = match['away']['name']
     score_str = match.get('scores', {}).get('ft_score', '')
 
@@ -65,7 +66,8 @@ for match in all_matches:
     except ValueError:
         continue
 
-    # Inicializar equipos si no existen
+    # Si los equipos no existen los inicializamos con 0 en un diccionario estadisticas que vamos
+    # a filtrar luego por team
     for team in [home_team, away_team]:
         if team not in estadisticas:
             estadisticas[team] = {

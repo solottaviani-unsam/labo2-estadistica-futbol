@@ -4,9 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 
-# ---------------------------------------
 # 1. CARGA DE JSON
-# --------------------------------------- 
 with open("../INFORMACION_API/fixture_completo.json", encoding="utf-8") as f:
     fixture = json.load(f)
 
@@ -18,16 +16,16 @@ with open("../INFORMACION_API/tabla_posiciones_fase_2.json", encoding="utf-8") a
 
 tabla_df = pd.DataFrame(tabla)
 
-# ---------------------------------------
 # 2. FUNCIONES HELPERS
-# ---------------------------------------
+#get_team_features: Devuelve posición, puntos, goles a favor y en contra
 def get_team_features(team_name):
-    """Devuelve posición, puntos, goles a favor y en contra."""
     row = tabla_df[tabla_df["equipo"] == team_name]
 
+    #si la fila esta vacia retorno los valores en 0
     if row.empty:
         return {"posicion": 0, "puntos": 0, "gf": 0, "gc": 0}
 
+    #selecciono la primera fila (debería ser la única)
     row = row.iloc[0]
     return {
         "posicion": row["posicion"],
@@ -36,9 +34,9 @@ def get_team_features(team_name):
         "gc": row["goles_en_contra"]
     }
 
-
+#get_goles_features: Devuelve estadísticas de goles local/visitante
 def get_goles_features(team_name):
-    """Devuelve estadísticas de goles local/visitante."""
+    #si el equipo no está en el json de goles, retorno ceros
     if team_name not in goles:
         return {"gf_local": 0, "gf_vis": 0, "gc_local": 0, "gc_vis": 0}
 
@@ -50,17 +48,15 @@ def get_goles_features(team_name):
         "gc_vis": g["recibidos_visitante"]
     }
 
-# ---------------------------------------
 # 3. CONSTRUCCIÓN DEL DATASET
 # (sin goles_local y goles_visita para evitar data leakage)
-# ---------------------------------------
 rows = []
 
 for match in fixture:
     local = match["home"]["name"]
     visitante = match["away"]["name"]
 
-    score = match["scores"]["ft_score"]  # "3 - 0"
+    score = match["scores"]["ft_score"]  #Ejemplo: "3 - 0"
     gl, gv = map(int, score.split("-"))
 
     # Resultado objetivo
@@ -81,11 +77,17 @@ for match in fixture:
         "visitante": visitante,
         "resultado": resultado,
 
-        # features del local
+        # armo un nuevo diccionario features del local
+        #{
+        #   "loc_posicion": 4,
+        #   "loc_puntos": 27,
+        #   "loc_gf": 18,
+        #   "loc_gc": 12
+        #}
         **{f"loc_{k}": v for k, v in f_local_tabla.items()},
         **{f"loc_{k}": v for k, v in f_local_goles.items()},
 
-        # features del visitante
+        # tambien armo un nuevo diccionario features del visitante
         **{f"vis_{k}": v for k, v in f_vis_tabla.items()},
         **{f"vis_{k}": v for k, v in f_vis_goles.items()},
     }
@@ -94,9 +96,7 @@ for match in fixture:
 
 df = pd.DataFrame(rows)
 
-# ---------------------------------------
-# 4. ENTRENAR EL MODELO
-# ---------------------------------------
+# 4. ENTRENAR EL MODELO DE REGRESIÓN LOGÍSTICA (magia)
 X = df.drop(columns=["resultado", "local", "visitante"])
 y = df["resultado"]
 
@@ -117,9 +117,7 @@ model.fit(X_train, y_train)
 print("✔️ Evaluación del modelo:")
 print(classification_report(y_test, y_pred := model.predict(X_test)))
 
-# ---------------------------------------
-# 5. FUNCIÓN DE PREDICCIÓN PARA STREAMLIT
-# ---------------------------------------
+# 5. FUNCIÓN DE PREDICCIÓN PARA LA INTERFAZ GRAFICA
 def predecir(local, visitante):
     f_loc = {**get_team_features(local), **get_goles_features(local)}
     f_vis = {**get_team_features(visitante), **get_goles_features(visitante)}
@@ -140,8 +138,6 @@ def predecir(local, visitante):
     else:
         return "🤝 Empate probable"
 
-# ---------------------------------------
 # 6. DEVOLVER LISTA DE EQUIPOS AL FRONTEND
-# ---------------------------------------
 def obtener_equipos():
     return sorted(tabla_df["equipo"].unique())

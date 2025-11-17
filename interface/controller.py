@@ -9,12 +9,10 @@ sys.path.append(os.path.abspath("../MACHINE_LEARNING"))
 from data_set import predecir, obtener_equipos
 
 
-
 st.title("📊 Predicción de Partidos - Liga Argentina")
 st.write("proyecto laboratorio 2")
 
-
-
+#obtengo todos los equipos que estaban en el dataset de machine learning
 equipos = obtener_equipos()
 
 col1, col2 = st.columns(2)
@@ -29,6 +27,7 @@ if st.button("Predecir Resultado"):
     if local == visitante:
         st.error("Los equipos no pueden ser iguales.")
     else:
+        #utilizo la funcion predecir que nos devuelve el resultado por el modelo de regresion logistca
         resultado = predecir(local, visitante)
         st.success(resultado)
 
