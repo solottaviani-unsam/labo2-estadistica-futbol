@@ -114,7 +114,7 @@ model = LogisticRegression(
 
 model.fit(X_train, y_train)
 
-print("✔️ Evaluación del modelo:")
+print("funciona?")
 print(classification_report(y_test, y_pred := model.predict(X_test)))
 
 # 5. FUNCIÓN DE PREDICCIÓN PARA LA INTERFAZ GRAFICA
