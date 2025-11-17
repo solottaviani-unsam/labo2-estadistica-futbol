@@ -1,11 +1,12 @@
 import json
+from pathlib import Path #importo esta libreria porque me ayuda por un error de importacion que estaba teniendo
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 
 # 1. CARGA DE JSON 
-# Esto evita depender del `cwd` desde el que se ejecute Streamlit/Python que me esta fallando
+# Esto evita depender del `cwd` desde el que se ejecute Streamlit/Python que me estaba fallando
 BASE_DIR = Path(__file__).resolve().parent.parent
 INFO_DIR = BASE_DIR / "info"
 
@@ -15,10 +16,10 @@ def load_json(path, default=None):
         with open(path, encoding="utf-8") as f:
             return json.load(f)
     except FileNotFoundError:
-        warnings.warn(f"Archivo no encontrado: {path}. Usando valor por defecto.")
+        print(f"Archivo no encontrado: {path}. Usando valor por defecto.")
         return default
     except json.JSONDecodeError as e:
-        raise RuntimeError(f"No se pudo parsear JSON {path}: {e}") from e
+        print(f"No se pudo parsear JSON {path}: {e}")
 
 
 fixture = load_json(INFO_DIR / "fixture_completo.json", [])
