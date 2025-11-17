@@ -3,7 +3,7 @@ import sys
 import os
 
 
-sys.path.append(os.path.abspath("../MACHINE_LEARNING")) 
+sys.path.append(os.path.abspath("../machine_learning")) 
 
 # Importo las funciones del modelo
 from data_set import predecir, obtener_equipos
