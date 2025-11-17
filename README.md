@@ -73,7 +73,7 @@ Se eligió este modelo porque:
 
 - Cumple con los requerimientos del curso: usar un modelo de Machine Learning entrenado con datos reales.
 
-La regresión logística funciona extendiendo la idea de un modelo lineal, pero en lugar de predecir valores numéricos continuos, estima probabilidades para cada clase y selecciona la más probable.
+**La regresión logística funciona extendiendo la idea de un modelo lineal, pero en lugar de predecir valores numéricos continuos, estima probabilidades para cada clase y selecciona la más probable.**
 
 ## ⚙️ Entrenamiento del Modelo
 
