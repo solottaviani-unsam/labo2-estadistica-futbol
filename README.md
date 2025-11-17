@@ -3,7 +3,7 @@
 Para ejecutar la interfaz gráfica del proyecto, utiliza el siguiente comando en la terminal:
 
 ```
-streamlit run INTERFAZ/controller.py
+streamlit run interface/controller.py
 ```
 
 # Predicción de Resultados de Fútbol con Machine Learning
