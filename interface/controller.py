@@ -2,6 +2,7 @@ import streamlit as st
 
 # Importo las funciones del modelo
 from machine_learning.data_set import predecir, obtener_equipos
+from machine_learning.data_set import get_team_features, get_goles_features
 
 
 st.title("📊 Predicción de Partidos - Liga Argentina")
@@ -22,11 +23,19 @@ if st.button("Predecir Resultado"):
     if local == visitante:
         st.error("Los equipos no pueden ser iguales.")
     else:
-        #utilizo la funcion predecir que nos devuelve el resultado por el modelo de regresion logistca
         resultado = predecir(local, visitante)
         st.success(resultado)
 
-        
+        # Generar razones simples para mostrar
+        f_loc = {**get_team_features(local), **get_goles_features(local)}
+        f_vis = {**get_team_features(visitante), **get_goles_features(visitante)}
+
+        with st.expander("📌 ¿Por qué se predijo ese resultado?"):
+            st.write(f"📌 {local}: posición {f_loc['posicion']}, puntos {f_loc['puntos']}, GF {f_loc['gf']}, GC {f_loc['gc']}")
+            st.write(f"📌 {visitante}: posición {f_vis['posicion']}, puntos {f_vis['puntos']}, GF {f_vis['gf']}, GC {f_vis['gc']}")
+            st.write(f"📊 Goles como local: {f_loc['gf_local']} / visitante: {f_vis['gf_vis']}")
+            st.write(f"🛡️ Goles recibidos local: {f_loc['gc_local']} / visitante: {f_vis['gc_vis']}")
+
 with st.expander("📌 ¿En qué se basa el modelo?"):
     st.write("""
     El modelo se entrenó utilizando datos históricos de la Liga Argentina.  
@@ -40,4 +49,4 @@ with st.expander("📌 ¿En qué se basa el modelo?"):
 
     Estas variables permiten que el modelo aprenda patrones reales del desempeño de cada equipo
     y pueda estimar el resultado más probable de un nuevo enfrentamiento.
-    """)
+    """)  
