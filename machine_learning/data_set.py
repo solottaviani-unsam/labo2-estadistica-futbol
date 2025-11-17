@@ -4,15 +4,26 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 
-# 1. CARGA DE JSON
-with open("../INFORMACION_API/fixture_completo.json", encoding="utf-8") as f:
-    fixture = json.load(f)
+# 1. CARGA DE JSON 
+# Esto evita depender del `cwd` desde el que se ejecute Streamlit/Python que me esta fallando
+BASE_DIR = Path(__file__).resolve().parent.parent
+INFO_DIR = BASE_DIR / "info"
 
-with open("../INFORMACION_API/goles_local_visitante.json", encoding="utf-8") as f:
-    goles = json.load(f)
+#load_json: Carga un archivo JSON y maneja los errores asi puedo replicar en todos los archivos necesarios
+def load_json(path, default=None):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except FileNotFoundError:
+        warnings.warn(f"Archivo no encontrado: {path}. Usando valor por defecto.")
+        return default
+    except json.JSONDecodeError as e:
+        raise RuntimeError(f"No se pudo parsear JSON {path}: {e}") from e
 
-with open("../INFORMACION_API/tabla_posiciones_fase_2.json", encoding="utf-8") as f:
-    tabla = json.load(f)
+
+fixture = load_json(INFO_DIR / "fixture_completo.json", [])
+goles = load_json(INFO_DIR / "goles_local_visitante.json", {})
+tabla = load_json(INFO_DIR / "tabla_posiciones_fase_2.json", [])
 
 tabla_df = pd.DataFrame(tabla)
 

@@ -1,12 +1,7 @@
 import streamlit as st
-import sys
-import os
-
-
-sys.path.append(os.path.abspath("../machine_learning")) 
 
 # Importo las funciones del modelo
-from data_set import predecir, obtener_equipos
+from machine_learning.data_set import predecir, obtener_equipos
 
 
 st.title("📊 Predicción de Partidos - Liga Argentina")
